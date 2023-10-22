@@ -1,2 +1,2 @@
 # TWAMM-Market-Maker
-Time weighted Automate Market Maker
+Time weighted Automated Market Maker
